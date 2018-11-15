@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  height: 100vh;
+  background-image: url('https://cdn-images-1.medium.com/max/2000/1*CvjclMDwgh9AqED_h5UVCA.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.filter-container {
+  width: 35%;
+  margin: 50px auto 20px;
+}
+.blockchain-content {
+  width: 100%;
+}
+.table-wrapper {
+  width: 60%;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  margin: 10px auto;
+  border-radius: 4px;
+}
+.btn-primary {
+  background-color: #235A6F !important;
+  border-color: #74b1c7 !important;
+}
+.axis, .chart-text {
+  color: white;
+}
+.chart-bar-wrapper {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 970px;
+  height: 515px;
+  margin: 10px auto;
+  border-radius: 4px;
+}
